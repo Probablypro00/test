@@ -1,10 +1,10 @@
 {
 
-	"name": "Chand-Bot",	"version": "2.1.0",
+	"name": "KWEL-Bot",	"version": "2.1.0",
 
-	"description": "This Bot Made By Mr Chand ",
+	"description": "This Bot Made By Mr KWEL ",
 
-	"main": "Chand.js",
+	"main": "KWEL.js",
 
 	"scripts": {
 
@@ -20,13 +20,13 @@
 
 		"type": "git",
 
-		"url": "https://github.com/Mrchandu7/test"
+		"url": "https://github.com/Probablypro00/test"
 
 	},
 
 	"keywords": [
 
-		"Chand Bot",
+		"KWEL Bot",
 
 		"facebook Bot",
 
@@ -38,17 +38,17 @@
 
 	],
 
-	"author": "MR-CHAND",
+	"author": "KWEL",
 
 	"license": "GPL-3.0",
 
 	"bugs": {
 
-		"url": "https://github.com/Mrchandu7/test/issues"
+		"url": "https://github.com/Probablypro00/test/issues"
 
 	},
 
-	"homepage": "https://github.com/Mrchandu7/test",
+	"homepage": "https://github.com/Probablypro00/test",
 
 	"dependencies": {
 
